@@ -1,6 +1,6 @@
 # OOP-Assignment
 Assignment 1: Design Your Own Class! 🏗️
-Create a class representing anything you like (a Smartphone, Book, or even a Superhero!).
+Create a class representing Formula 1 teams.
 Add attributes and methods to bring the class to life!
 Use constructors to initialize each object with unique values.
 Add an inheritance layer to explore polymorphism or encapsulation.
